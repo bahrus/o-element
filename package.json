@@ -1,0 +1,20 @@
+{
+  "name": "o-element",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "https://github.com/bahrus/o-element#readme",
+  "bugs": {
+    "url": "https://github.com/bahrus/o-element/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/o-element.git"
+  },
+  "license": "MIT",
+  "author": "Bruce B. Anderson <anderson.bruce.b@gmail.com>",
+  "type": "module",
+  "main": "o.js",
+  "scripts": {
+    "test": "playwright test"
+  }
+}
